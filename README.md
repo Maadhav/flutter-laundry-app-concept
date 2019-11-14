@@ -9,7 +9,7 @@ Made by Maadhav Sharma
 ## ScreenShots
 
 
-![ScreenShot](https://raw.githubusercontent.com/Maadhav/flutter-login-ui-concept/master/assets/thumbnail.png)
+![ScreenShot](https://raw.githubusercontent.com/Maadhav/flutter-laundry-app-concept/master/assets/thumbnail.png)
 
 - [Design Source Credit:](https://www.uplabs.com/)
 ## 
