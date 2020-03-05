@@ -34,7 +34,7 @@ class Detailes extends StatelessWidget {
             top: 50,
             left: 20,
             child: IconButton(
-              onPressed: Navigator.pop(context),
+              onPressed:()=> Navigator.pop(context),
                           icon: Icon(Icons.arrow_back,
               color: Colors.white,
               size: 25,),
